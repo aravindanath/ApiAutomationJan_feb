@@ -1,0 +1,12 @@
+{
+  "firstName": "Arvind",
+  "lastName": "sharma",
+  "email": "arvind123@gmail.com",
+  "programme": "Mechanical Engineering",
+  "courses": [
+    "Machine Element Design",
+    "Engineering Analysis I",
+    "Calculus & Linear Algebra I ",
+    "Design pattern"
+  ]
+}
